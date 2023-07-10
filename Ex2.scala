@@ -1,5 +1,4 @@
 import scala.io.StdIn._
-import scala.util.control.Breaks._
 
 
 object Ex2 extends App{
